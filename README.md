@@ -1,3 +1,7 @@
+Hi there I'm Sai Krishna Sanu👋  
+Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leveraging my skills to build interactive and scalable web applications. With a strong foundation in tools like HTML, CSS, JavaScript, React JS, Bootstrap, Node.js, Express.js, SQLite, MongoDB, and Figma, I aim to combine technical expertise with business acumen to deliver impactful solutions.
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SaiKrishnaSangu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saikrishna_sangu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saikrishnasangu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TheApexExplorer) 
